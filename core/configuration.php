@@ -1,7 +1,7 @@
 <?php
 
 $DB_HOST = "127.0.0.1";
-$DB_NAME = "lekir";
+$DB_NAME = "goten-cyber-lab";
 $DB_USER = "root";
 $DB_PASS = "password";
 
@@ -20,6 +20,6 @@ if ( mysqli_connect_errno() )
 
 $random_value=md5(uniqid(mt_rand(), true));
 $key = "password";
-$title = "LEKIR";
+$title = "GOTEN-CYBER-LAB";
 
 ?>
