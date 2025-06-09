@@ -74,7 +74,7 @@ if(isset($_SESSION['user_id'])){header('Location: ./dashboard.php');}
 
       <div class="footer">
         <center>
-          <small>Develop by <a href="https://github.com/firdauskhairuddin" target="_blank">@firdauskhairuddin</a></small>
+          <small>Develop by @whymir</a></small>
         </center>
       </div>
     </div>
